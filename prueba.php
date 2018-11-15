@@ -8,7 +8,7 @@
 	<h2>Hola papu</h2>
 <?php
 echo"DSASADSA";
-for ($i=0; $i <10 ; $i++) { 
+for ($i=0; $i <15 ; $i++) { 
 	echo "a" + $i;
 }
 
