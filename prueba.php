@@ -5,5 +5,10 @@
 </head>
 <body>
 	<h1>Hola</h1>
+
+echo"DSASADSA";
+
+?>
+
 </body>
 </html>
